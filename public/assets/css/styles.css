@@ -80,7 +80,6 @@ body {
 /* RESPONSIVENESS */
 @media screen and (max-width:500px) {
   .note-title {
-    margin-bottom: 50px;
     font-size: 2.5rem;
     height: 100px;
   }
