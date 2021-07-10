@@ -71,16 +71,16 @@ The following acceptance criteria was used to guide the development of this proj
 6. Use a platform to deploy the application, such as [Heroku](https://www.heroku.com).
 
 _Example of deployed application home page._
-![Application homepage]()
+![Application homepage](https://github.com/merewall/Note-Taker/blob/main/readme_assets/homepage.PNG)
 
 _Examples of notes page with saved notes._
-![Notes page with saved notes]()
+![Notes page with saved notes](https://github.com/merewall/Note-Taker/blob/main/readme_assets/saved-notes.PNG)
 
 _Example of saved note rendered to active note area._  
-![Saved note as active note]()
+![Saved note as active note](https://github.com/merewall/Note-Taker/blob/main/readme_assets/active-note.PNG)
 
 _Demo of Note Taker application._  
-![Note Taker Demo]()
+![Note Taker Demo](https://github.com/merewall/Note-Taker/blob/main/readme_assets/note-taker-demo.gif)
 
 ## LICENSE
 
