@@ -70,9 +70,6 @@ The following acceptance criteria was used to guide the development of this proj
 5. Verify the functionality via the browser and localhost port. (i.e. http://localhost:8080/).
 6. Use a platform to deploy the application, such as [Heroku](https://www.heroku.com).
 
-_Examples of initializing the application in command-line:_
-![Initializing the application]()
-
 _Example of deployed application home page._
 ![Application homepage]()
 
