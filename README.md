@@ -62,13 +62,22 @@ The following acceptance criteria was used to guide the development of this proj
     6. After Node.js is on your local machine, return to the [installation](#installation) instructions for this project's application above.
 
 ## USAGE
-
+*To re-create the app on your local machine:
 1. Open command-line terminal on your local machine.
 2. Navigate to the cloned directory of the application on your local machine using `cd`, if not already there.
 3. If you haven't already, be sure you followed all [installation](#installation) instructions to install node, express, and uuid dependencies.
 4. Initialize the application in command-line using: `node server.js`.
 5. Verify the functionality via the browser and localhost port. (i.e. http://localhost:8080/).
 6. Use a platform to deploy the application, such as [Heroku](https://www.heroku.com).
+
+*To use the app:
+1. Click the "Get Started" button.
+2. Saved notes appear on the left column of the screen.
+3. To view a saved note, click on the note and it will show all the note details on the right side of the screen.
+4. To add a new note, either click the "+" button when viewing a saved note OR click on the right hand side of the screen for note entry.
+5. To save a new note, type a note title and note text in the input areas on the right hand side of the screen and click the 'save' icon.
+6. To delete a saved note, click the trashcan icon within the respective note.
+7. To return to the homescreen, click on 'Note Taker' in the upper left of the screen.
 
 _Example of deployed application home page._
 ![Application homepage](https://github.com/merewall/Note-Taker/blob/main/readme_assets/homepage.PNG)
