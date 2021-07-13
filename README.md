@@ -62,7 +62,7 @@ The following acceptance criteria was used to guide the development of this proj
     6. After Node.js is on your local machine, return to the [installation](#installation) instructions for this project's application above.
 
 ## USAGE
-*To re-create the app on your local machine:
+*To re-create the app on your local machine:*
 1. Open command-line terminal on your local machine.
 2. Navigate to the cloned directory of the application on your local machine using `cd`, if not already there.
 3. If you haven't already, be sure you followed all [installation](#installation) instructions to install node, express, and uuid dependencies.
@@ -70,7 +70,7 @@ The following acceptance criteria was used to guide the development of this proj
 5. Verify the functionality via the browser and localhost port. (i.e. http://localhost:8080/).
 6. Use a platform to deploy the application, such as [Heroku](https://www.heroku.com).
 
-*To use the app:
+*To use the app:*
 1. Click the "Get Started" button.
 2. Saved notes appear on the left column of the screen.
 3. To view a saved note, click on the note and it will show all the note details on the right side of the screen.
